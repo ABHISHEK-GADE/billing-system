@@ -1,0 +1,11 @@
+.branding-form {
+    display: grid;
+    gap: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.branding-form img {
+    max-width: 100px;
+    margin-top: 10px;
+}

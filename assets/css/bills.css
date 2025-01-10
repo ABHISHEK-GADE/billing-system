@@ -1,0 +1,21 @@
+.item-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    text-align: left;
+}
+
+.item-table th,
+.item-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.item-table td select,
+.item-table td input {
+    width: calc(100% - 20px);
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 14px;
+}
